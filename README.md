@@ -1,7 +1,8 @@
 <h3>Aplikasi Hitung Nilai Mahasiswa Netbeans</h3>
 
 - Mata kuliah Pemrograman Berorientasi Objek
-- Berikut merupakan beberapa fitur aplikasi hitung nilai mahasiswa dengan Java Netbeans
+- Berikut merupakan beberapa fitur aplikasi hitung nilai mahasiswa dengan menggunakan Java Netbeans
+- Requirement : OpenJDK 15 (sudah include JavaFX) dan Apache Netbeans Ver 14
 - Fitur : Mahasiswa dapat memasukkan nama, nim, nilai tugas, nilai UTS, dan nilai UAS
 - Button Hitung akan menghitung nilai dari jumlah keseluruhan (nilai tugas, nilai UTS, nilai UAS) 
 - Nilai Akhir dan Predikat akan keluar setelah button Hitung ditekan
