@@ -1,6 +1,7 @@
-<h3>Pemrograman Berorientasi Objek</h3>
+<h3>Aplikasi Hitung Nilai Mahasiswa Netbeans</h3>
 
-- Berikut merupakan beberapa fitur aplikasi hitung nilai mahasiswa
+- Mata kuliah Pemrograman Berorientasi Objek
+- Berikut merupakan beberapa fitur aplikasi hitung nilai mahasiswa dengan Java Netbeans
 - Fitur : Mahasiswa dapat memasukkan nama, nim, nilai tugas, nilai UTS, dan nilai UAS
 - Button Hitung akan menghitung nilai dari jumlah keseluruhan (nilai tugas, nilai UTS, nilai UAS) 
 - Nilai Akhir dan Predikat akan keluar setelah button Hitung ditekan
